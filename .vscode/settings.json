@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "archive/Strings",
+        "archive/BinarySearch",
+        "archive/Arrays",
+        "archive/TwoPointers"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
