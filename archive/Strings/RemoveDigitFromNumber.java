@@ -1,4 +1,4 @@
-
+package archive.Strings;
 public class RemoveDigitFromNumber {
     public static void main(String[] args) {
         String number = "133235";

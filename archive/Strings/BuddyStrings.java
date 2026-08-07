@@ -1,4 +1,4 @@
-
+package archive.Strings;
 public class BuddyStrings {
     public static void main(String[] args) {
         String s = "aa";

@@ -1,4 +1,4 @@
-
+package archive.Strings;
 public class WeightedWordMapping {
     public static void main(String[] args) {
         String[]  words = {"a","b","c"}; 

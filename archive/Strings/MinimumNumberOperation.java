@@ -1,4 +1,4 @@
-
+package archive.Strings; 
 public class MinimumNumberOperation {
     public static void main(String[] args) {
         String current = "11:00";

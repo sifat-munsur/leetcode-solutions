@@ -1,4 +1,4 @@
-
+package archive.DP;
 public class HouseRobber {
     public static void main(String[] args) {
         int[] nums = {2,7,9,3,1};

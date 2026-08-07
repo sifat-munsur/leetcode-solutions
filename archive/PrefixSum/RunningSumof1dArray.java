@@ -1,4 +1,4 @@
-package LeetCode.PrefixSum;
+package archive.PrefixSum;
 
 import java.util.Arrays;
 

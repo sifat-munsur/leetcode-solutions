@@ -1,4 +1,4 @@
-
+package archive.Strings;
 import java.util.HashMap;
 
 public class JewelsAndStones {

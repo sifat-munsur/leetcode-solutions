@@ -1,4 +1,4 @@
-
+package archive.TwoPointers;
 public class ReversePrefixOfWord {
 
     public static void reverse(char[] arr, int i, int j){

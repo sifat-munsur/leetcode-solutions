@@ -1,4 +1,4 @@
-
+package archive.BinarySearch;
 public class maximumCount {
     public static void main(String[] args) {
         int[] nums = {0,0};

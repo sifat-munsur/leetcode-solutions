@@ -1,4 +1,4 @@
-
+package archive.Strings;
 public class CountNumberConsistentStrings {
     public static void main(String[] args) {
         String allowed = "fstqyienx";

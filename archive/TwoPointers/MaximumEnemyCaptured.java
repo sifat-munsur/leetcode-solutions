@@ -1,4 +1,4 @@
-
+package archive.TwoPointers;
 public class MaximumEnemyCaptured {
     public static void main(String[] args) {
         int[] forts = {0,-1,-1,0,-1};

@@ -1,3 +1,4 @@
+package archive.SlidingWindow;
 
 public class MinimumSizeSubarraySum {
     public static void main(String[] args) {

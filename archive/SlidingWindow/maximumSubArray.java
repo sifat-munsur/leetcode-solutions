@@ -1,3 +1,4 @@
+package archive.SlidingWindow;
 
 public class maximumSubArray {
     public static void main(String[] args) {

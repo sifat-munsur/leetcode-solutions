@@ -1,6 +1,4 @@
-package LeetCode.PrefixSum;
-
-import java.util.Arrays;
+package archive.PrefixSum;
 
 public class CountPartitionsEvenSumDifference {
     public static void main(String[] args) {

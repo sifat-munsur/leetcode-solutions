@@ -1,4 +1,6 @@
 
+package archive.Arrays;
+
 public class TwoStringArraysEquivalent {
     public static void main(String[] args) {
         String[] word1 = {"abc", "d", "defg"};

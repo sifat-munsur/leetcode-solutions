@@ -1,4 +1,4 @@
-package LeetCode.PrefixSum;
+package archive.PrefixSum;
 
 public class FindPivotIndex {
     public static void main(String[] args) {

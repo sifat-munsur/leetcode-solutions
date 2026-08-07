@@ -1,4 +1,4 @@
-
+package archive.TwoPointers;
 public class FindFirstPalindromicString {
     public static void main(String[] args) {
         String[] words = {"e","ghi"};

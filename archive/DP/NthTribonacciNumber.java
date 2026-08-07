@@ -1,3 +1,4 @@
+package archive.DP;
 
 public class NthTribonacciNumber {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-
+package archive.TwoPointers;
 
 public class CheckIfStringIsAPrefixOfArray {
     public static void main(String[] args) {

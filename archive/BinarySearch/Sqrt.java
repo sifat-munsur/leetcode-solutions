@@ -1,4 +1,4 @@
-
+package archive.BinarySearch;
 public class Sqrt {
     public static void main(String[] args) {
         int x = 9;

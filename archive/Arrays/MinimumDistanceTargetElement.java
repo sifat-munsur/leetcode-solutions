@@ -1,3 +1,4 @@
+package archive.Arrays;
 
 public class MinimumDistanceTargetElement {
     public static void main(String[] args) {

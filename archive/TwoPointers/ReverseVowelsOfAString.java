@@ -1,4 +1,4 @@
-
+package archive.TwoPointers;
 public class ReverseVowelsOfAString {
 
     public static boolean isVowel(char c){

@@ -1,4 +1,4 @@
-
+package archive.BinarySearch;
 
 public class FirstBadVersion{
 

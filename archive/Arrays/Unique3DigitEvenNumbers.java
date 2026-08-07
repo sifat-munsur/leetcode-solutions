@@ -1,3 +1,4 @@
+package archive.Arrays;
 
 public class Unique3DigitEvenNumbers {
     public static void main(String[] args) {

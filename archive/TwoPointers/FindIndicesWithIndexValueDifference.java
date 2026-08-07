@@ -1,4 +1,4 @@
-
+package archive.TwoPointers;
 
 public class FindIndicesWithIndexValueDifference {    public static void main(String[] args) {
         int[] nums = {2,29,0};

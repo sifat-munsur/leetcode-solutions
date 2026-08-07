@@ -1,4 +1,4 @@
-// package LeetCode.BinarySearch;
+package archive.BinarySearch;// package LeetCode.BinarySearch;
 
 public class KthMissingPositiveNumber {
     public static void main(String[] args) {

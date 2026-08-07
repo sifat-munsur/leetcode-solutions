@@ -1,3 +1,4 @@
+package archive.DP;
 
 public class MinimumPathSum {
     public static void main(String[] args) {

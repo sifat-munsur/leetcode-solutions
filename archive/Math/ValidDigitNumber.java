@@ -1,3 +1,4 @@
+package archive.Math;
 
 public class ValidDigitNumber {
     public static void main(String[] args) {

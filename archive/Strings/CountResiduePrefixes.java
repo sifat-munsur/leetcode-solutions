@@ -1,4 +1,4 @@
-
+package archive.Strings;
 public class CountResiduePrefixes {
     public static void main(String[] args) {
         String s = "abc";

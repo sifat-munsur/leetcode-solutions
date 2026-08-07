@@ -1,4 +1,4 @@
-
+package archive.BinarySearch;
 public class FindPeakElement {
     public static void main(String[] args) {
         int[] nums = {1,2,1,3,5,1,1};

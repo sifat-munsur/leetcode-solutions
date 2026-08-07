@@ -1,4 +1,4 @@
-
+package archive.Strings;
 public class ConvertANumberToHexadecimal {
     public static void main(String[] args) {
         int num = 26;

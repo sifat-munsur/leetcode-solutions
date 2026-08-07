@@ -1,4 +1,4 @@
-
+package archive.Strings;
 public class NumberOfSegmentsInAString {
     public static void main(String[] args) {
         String s = "   ";

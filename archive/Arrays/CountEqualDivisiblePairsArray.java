@@ -1,3 +1,4 @@
+package archive.Arrays;
 
 public class CountEqualDivisiblePairsArray {
     public static void main(String[] args) {
