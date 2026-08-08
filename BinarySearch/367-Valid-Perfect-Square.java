@@ -1,4 +1,4 @@
-package BinarySerach;
+package BinarySearch;
 
 class Solution{
 
