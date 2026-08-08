@@ -2,7 +2,7 @@ package Sorting;
 
 import java.util.Arrays;
 
-public class RelativeRanks {
+class RelativeRanks {
     
 
     public static void main(String[] args) {
