@@ -2,9 +2,8 @@ package archive.Strings;
 
 public class CalculateDigitSumString {
     public static void main(String[] args) {
-        String s = s = "11111222223";
+        String s = "11111222223";
         int k = 3;
-        
         while(s.length() > k){
             StringBuilder sb = new StringBuilder();
             int sum =0 ;
@@ -18,7 +17,7 @@ public class CalculateDigitSumString {
                     count = 0;
                 }
             }
-             if (count > 0) {
+            if (count > 0) {
                 sb.append(sum);
             }
             s = sb.toString();
