@@ -1,12 +1,14 @@
-package BinaryTree.core;
+package DFS.build;
 
-import java.util.*;
+import java.util.LinkedList;
+import java.util.Queue;
 
 public class TreeBuilder {
 
     public static TreeNode buildTree(Integer[] arr) {
-        if (arr == null || arr.length == 0 || arr[0] == null) return null;
-
+        if (arr == null || arr.length == 0 || arr[0] == null){
+            return null;
+        }
         TreeNode root = new TreeNode(arr[0]);
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
@@ -31,4 +33,5 @@ public class TreeBuilder {
 
         return root;
     }
+
 }
